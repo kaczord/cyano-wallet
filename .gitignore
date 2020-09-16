@@ -16,9 +16,9 @@
 .env.test.local
 .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+npm-debug.kaczord*
+yarn-debug.kaczord*
+yarn-error.kaczord*
 
 build.crx
 build.pem
